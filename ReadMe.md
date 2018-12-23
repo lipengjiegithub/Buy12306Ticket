@@ -1,4 +1,5 @@
-该项目本是fork github上名为EasyTrain的项目，本项目只是在原有的基础上新增了自动识别验证码，该识别也是借用了某大神的服务器
+该项目本是fork github上名为EasyTrain的项目，项目地址为https://github.com/Why8n/EasyTrain
+本项目只是在原有的基础上新增了自动识别验证码，该识别也是借用了某大神的服务器
 -----------------
 [12306](http://www.12306.cn/)自动抢票软件。
 
